@@ -27,5 +27,4 @@ export const RetryButton = styled.button`
   padding-right: 20px;
   border-radius: 4px;
   font-weight: 500;
-  cursor: pointer;
 `
